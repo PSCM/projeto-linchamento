@@ -1,5 +1,5 @@
 # Projeto Linchamento
-Repositório destinado às análises conduzidas em matérias de jornais sobre linchamento, nas seguintes localidaes: a) Manaus (AM); b) Região Metropolitana da Grande São Luís (MA); e c) Região Metropolitana da Grande Vitória (ES).
+Repositório destinado às análises conduzidas em matérias de jornais sobre linchamento, nas seguintes localidaes: a) Manaus (AM); b) Grande São Luís (MA); e c) Grande Vitória (ES).
 
 ## Sobre os dados:
 - Os dados foram coletados diretamente de matérias jornalísticas, produzidas durante o período de 2011 a 2020.
